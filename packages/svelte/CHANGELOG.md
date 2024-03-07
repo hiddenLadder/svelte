@@ -1,5 +1,13 @@
 # svelte
 
+## 5.0.0-next.73
+
+### Patch Changes
+
+- chore: custom elements validation ([#10720](https://github.com/sveltejs/svelte/pull/10720))
+
+- fix: ensure performance.now() and requestAnimationFrame() are polyfilled in ssr ([#10715](https://github.com/sveltejs/svelte/pull/10715))
+
 ## 5.0.0-next.72
 
 ### Patch Changes
